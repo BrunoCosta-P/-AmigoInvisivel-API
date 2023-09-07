@@ -39,4 +39,4 @@ Este projeto está licenciado sob a [Licença XYhttps://dev.azure.com/brunocosta
 
 ## Contato
 
-Para informações adicionais ou perguntas, entre em contato com [Seu Nome] via email (seuemail@example.com).
+Para informações adicionais ou perguntas, entre em contato com [Bruno Costa] via email (brunocosta524@hotmail.com).
