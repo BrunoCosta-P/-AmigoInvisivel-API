@@ -27,11 +27,11 @@ O Amigo Invisível é uma aplicação web que permite organizar e realizar troca
 
 ## Tarefas e PBIs
 
-Para acompanhar o progresso do desenvolvimento, consulte as tarefas e Product Backlog Items (PBIs) no [Azure DevOps]([link para o Azure DevOps](https://dev.azure.com/brunocosta524/Amigo%20Invis%C3%ADvel)).
+Para acompanhar o progresso do desenvolvimento, consulte as tarefas e Product Backlog Items (PBIs) no [ Azure DevOps](https://dev.azure.com/brunocosta524/Amigo%20Invis%C3%ADvel).
 
 ## Contribuição
 
-Contribuições para este projeto são bem-vindas. Siga as diretrizes de contribuição especificadas no [Guia de Desenvolvimento]([link para a documentação no Azure DevOps](https://dev.azure.com/brunocosta524/Amigo%20Invis%C3%ADvel)).
+Contribuições para este projeto são bem-vindas. Siga as diretrizes de contribuição especificadas no [Guia de Desenvolvimento][Azure DevOps](https://dev.azure.com/brunocosta524/Amigo%20Invis%C3%ADvel/_wiki/wikis/Amigo-Invis%C3%ADvel.wiki/8/Guia-de-Desenvolvimento).
 
 ## Licença
 
